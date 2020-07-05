@@ -15,5 +15,4 @@ Scrap bigbasket all data
 6. when fetching of category and brand completed then Hover on "Scrap Data" and click on "fetch product" for start fetching product list.
 #### Note: google script can run up to 15- 20 mins at once so you have to repeat step 6 till it fetch all data
 
-### Api used
-- 
+#### Note: if api not working then try to change cookies
